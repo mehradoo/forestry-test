@@ -41,7 +41,7 @@ fields:
   default: post
 pages:
 - _posts/2017-02-12-modern.md
-- _posts/test-post.html
+- _posts/2018-08-06-test-post.html
 - _posts/2018-05-30-example-draft.md
 - _posts/2017-09-25-introduction.md
 - _posts/2017-08-22-research.md
